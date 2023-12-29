@@ -1,0 +1,9 @@
+{
+ "items":["a","b"],
+ "totalBill":1500,
+ "customerAddress":"abc street",
+ "customerContact":"0341340000",
+ "customerId":"1234",
+ "customerName":"anonymous",
+ "customerEmail":"anonymous@gmail.com"
+}

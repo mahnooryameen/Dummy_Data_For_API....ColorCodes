@@ -1,0 +1,9 @@
+{
+  "ProductName":"potatoo",
+  "ProductCategory":"sabzi",
+  "ProductPrice":1500,
+  "ProductBrand":"fresh life",
+  "ProductThumbnail":"https://images.immediate.co.uk/production/volatile/sites/30/2022/10/Hasselback-roast-potatoes-a47002c.jpg",
+  "ProductDescription":"potato from thely wala",
+  "ProductImageArray":["https://play-lh.googleusercontent.com/9UDY3O4wSwlBm-kHHfjKf85Yk5GCt0nckL5ZdMR-nYotAfNjODvR4sZ-scPXG3ABVF65","https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg","https://cdn-prod.medicalnewstoday.com/content/images/articles/280/280579/potatoes-can-be-healthful.jpg","https://images.immediate.co.uk/production/volatile/sites/30/2022/10/Hasselback-roast-potatoes-a47002c.jpg"]
+}
